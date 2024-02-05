@@ -25,12 +25,18 @@ Links are used here for easier navigation.
 
 
 ## Software📎
-https://lrepacks.net/
+1. https://codec.kiev.ua/releases.html (Adobe, Plugins, Vegas, Boris, Photoshop, Team V.R)
+2. https://lrepacks.net/ (Software Repacks)
+3. https://pooshock.ru/ (Adobe, Plugins, Vegas, Boris, Photoshop, Effects, VFX)
+4. https://www.nsaneforums.com/ (Software Sharing Forum, Etc)
+5. https://forum.mobilism.org/ (Forum where everyone can upload, Software, Android, Windows, Games, E-Books, Books, etc)
+      ⚠️ ALWAYS check everything you download, ANYONE can upload on mobilism.
+6. 
+
 
 ## Further Resources 📚
 
-You made it! The first part of the introduction is over. We did not cover a lot here, but you can learn about anything on our [documentation](https://docs.zettlr.com/)! What you might be interested in, is [the powerful tag manager](https://docs.zettlr.com/en/reference/settings/#manage-tags), or the [versatile search options](https://docs.zettlr.com/en/core/search/).
+You have reached the end of this collection. Here are some other things to check out if needed:
 
-But now enough basics, we are ready to take the full dive! Let’s head over to the Zettelkasten tutorial! To go there, simply `Cmd/Ctrl`-click the following wiki-link: [[zettelkasten]]
-
-[^1]: This text lives at the bottom of this file. But you can really put footnotes anywhere you want. Zettlr will display the corresponding footnote text when you hover over it with your mouse so you don't have to scroll somewhere to read what it says.
+1. fmhy.net
+2. 
